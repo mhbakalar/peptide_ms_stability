@@ -6,8 +6,8 @@ index = {}
 
 modules = []
 
-doc_url = "https://{user}.github.io/{lib_name}/"
+doc_url = "https://mhbakalar.github.io/peptide_ms_stability/"
 
-git_url = "https://github.com/{user}/{lib_name}/tree/{branch}/"
+git_url = "https://github.com/mhbakalar/peptide_ms_stability/tree/main/"
 
 def custom_doc_links(name): return None
